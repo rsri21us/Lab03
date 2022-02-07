@@ -33,10 +33,10 @@ functionality of the program:
 The contents of one file is appended to the other file.
 
 To test the program follow the below commands:
-
+```
 gcc Lab01.c
 ./a.out file1.txt file2.txt
-
+```
 # Author 
 Sri Vastava Rangaraju Naga Venkata
 
@@ -46,4 +46,4 @@ Sri Vastava Rangaraju Naga Venkata
 I thank my TA's and Dr. Mahmut Unan for helping me learn everyday.
 
 
- 
+
